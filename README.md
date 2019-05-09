@@ -1,2 +1,2 @@
-# reversi
-This project implements the game Reversi written in MIPS assembly language.
+# MiniGameStation
+Mini Game Station using MIPS. Game including rock paper scissors, guess the number, and dice game.
